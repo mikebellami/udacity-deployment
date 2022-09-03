@@ -2,6 +2,7 @@
 # Actual aws-auth-patch.yml will be created at /System/Volumes/Data/private/tmp/aws-auth-patch.yml path.
 
 apiVersion: v1
+
 data:
   mapRoles: |
     - groups:
